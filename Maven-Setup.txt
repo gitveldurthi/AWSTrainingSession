@@ -1,0 +1,7 @@
+Maven Setup.
+-=-=-=-=-=-=-
+
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_111\bin
+M2_HOME=C:\Users\Veldurthi\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin
+
+mvn archetype:generate -DgroupId=com.bharath -DartifactId=hellomaven -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false

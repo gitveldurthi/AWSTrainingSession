@@ -1,0 +1,21 @@
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. https://youtu.be/c2abcy0Q1a0 Hibernate Tutorial 08 - Value Types and Embedding Objects 
+9. 
+10.
+11.
+12.
+13.
+14.https://youtu.be/4mANZ4MMbD4 Hibernate Tutorial 14 - One To Many Mapping 
+15.
+16. https://www.youtube.com/watch?v=K2Id3WLZWJI   - cascadeTypes and OtherThings.
+
+https://youtu.be/Em4M2tUn1bU
+
+https://youtu.be/o_P-p2b_k6w
+https://youtu.be/MzrzsKSJBt0
