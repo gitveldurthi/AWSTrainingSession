@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project basedir="." default="create-zip" name="CNNProject">
+<project basedir="." default="create-zip" name="AWSTrainingSession">
 <property file="${basedir}/build.properties"/>
 <property name="dist" value="dist"/>
 <property name="build" value="build"/>
@@ -14,7 +14,7 @@
 <delete dir="${build}"/>
 </target>
 <target name="create-zip" description="Generates zip file" depends="clean,init">
-<zip destfile="${dist-location}/myawstraining.zip">
+<zip destfile="${dist-location}/AWSTrainingSession.zip">
 <zipfileset dir="${basedir}"/>
 <fileset dir="${basedir}" includes="*.txt"/>
 </zip>
